@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "マトリョシカ",
+  "base_artist": "Ado×りぶ",
+  "createdAt": "2025-12-10T10:24:58.552828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ feat. 初音ミク & GUMI",
+      "has_synced": true,
+      "path": "select/01_マトリョシカ_ハチ_feat._初音ミク_&_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/02_マトリョシカ_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ (Hachi)",
+      "has_synced": true,
+      "path": "select/03_マトリョシカ_ハチ_(Hachi).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ feat. 初音ミク・GUMI",
+      "has_synced": false,
+      "path": "select/04_マトリョシカ_ハチ_feat._初音ミク・GUMI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ feat.初音ミク・GUMI",
+      "has_synced": false,
+      "path": "select/05_マトリョシカ_ハチ_feat.初音ミク・GUMI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マトリョシカ - ORIGINAL",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/06_マトリョシカ_-_ORIGINAL_hachi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マトリョシカ feat.赤飯",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/07_マトリョシカ_feat.赤飯_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/08_マトリョシカ_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ feat. 初音ミク, GUMI",
+      "has_synced": true,
+      "path": "select/09_マトリョシカ_ハチ_feat._初音ミク,_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "ハチ; 初音ミク; GUMI",
+      "has_synced": true,
+      "path": "select/10_マトリョシカ_ハチ;_初音ミク;_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マトリョシカ (ORIGINAL) - Matoryoshka (ORIGINAL)",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/11_マトリョシカ_(ORIGINAL)_-_Matoryoshka_(ORIGINAL)_HACHI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/12_マトリョシカ_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "マトリョシカ(カバー)",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/13_マトリョシカ(カバー)_hachi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/14_マトリョシカ_hachi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "Hachi feat. 初音ミク & GUMI",
+      "has_synced": true,
+      "path": "select/15_マトリョシカ_Hachi_feat._初音ミク_&_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "マトリョシカ ハチ",
+      "artist": "緑仙",
+      "has_synced": true,
+      "path": "select/16_マトリョシカ_ハチ_緑仙.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "マトリョシカ(ORIGINAL)",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/17_マトリョシカ(ORIGINAL)_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "マトリョシカ",
+      "artist": "初音　ミク",
+      "has_synced": true,
+      "path": "select/18_マトリョシカ_初音_ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マトリョシカ",
+      "artist": "Ado×りぶ",
+      "has_synced": false,
+      "path": "select/pl_01_マトリョシカ_Ado×りぶ.txt"
+    }
+  ]
+}
